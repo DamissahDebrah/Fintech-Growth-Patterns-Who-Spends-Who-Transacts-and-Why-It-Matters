@@ -5,7 +5,7 @@
 ## 🔎 Project Overview
 This project analyzes **customer transactions** for a fintech startup, focusing on transaction values, channels, types, and customer behavior across different locations.  
 The dashboard provides insights into **transaction patterns, customer activity distribution, and transaction success performance**, helping to identify opportunities for growth and service optimization.
-This Project project revealed how different age groups adopt fintech services across channels, helping management identify today's most valuable customers and tomorrow's untapped growth opportunities
+
 
 ---
 
