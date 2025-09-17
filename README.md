@@ -65,7 +65,7 @@ This analysis enables the fintech startup to:
 ## 📌 Dashboard Preview
 [View Dashboard Here](https://github.com/user-attachments/assets/b61e60f7-9518-4021-8b8e-d3c7aa9aa224)
 
-[Download the Interactive Power BI Dashboard]()
+[Download the Interactive Power BI Dashboard](https://github.com/DamissahDebrah/Fintech-Growth-Patterns-Who-Spends-Who-Transacts-and-Why-It-Matters/raw/refs/heads/main/Customer%20Performance%20Analysis%20Dashboard%201.pbix)
   
 
 
